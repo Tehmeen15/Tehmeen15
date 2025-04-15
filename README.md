@@ -126,7 +126,7 @@
 
 ### 📫 Let’s Connect!
 
-- 📧 Email: temimeen15@gmail.com  
+- 📧 Email: tehmeen315@yahoo.com  
 - 💼 LinkedIn: [linkedin.com/in/tehmeen](https://www.linkedin.com/in/tehmeen/)  
 - 🌐 Fiverr: [fiverr.com/tehmeen15](https://www.fiverr.com/tehmeen15)  
 - 🧪 Ask Me About: AI projects, freelance work, or even meme-worthy coding bugs 🤓
