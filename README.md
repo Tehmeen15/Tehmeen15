@@ -108,14 +108,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tehmeen15&theme=onedark&margin-w=15&no-frame=true" />
-</p>
-
----
-
 ### 🔁 Dynamic Motivation
 
 <p align="center">
