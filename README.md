@@ -87,7 +87,7 @@
 
 ### 🌍 Freelancing Experience
 
-- 🛠️ **Fiverr:** [@Tehmeen15](https://www.fiverr.com/tehmeen15)
+- 🛠️ **Fiverr:** [@Official_codes](https://www.fiverr.com/official_codes)
 - 💼 Roles: Full-stack dev, AI model builder, CV/NLP systems, chatbot integrator
 - 💬 Clients Say:
   > “Fast, smart, and reliable. Will 100% hire again!” – *Tech Client, UK*
@@ -119,8 +119,8 @@
 ### 📫 Let’s Connect!
 
 - 📧 Email: tehmeen315@yahoo.com  
-- 💼 LinkedIn: [linkedin.com/in/tehmeen](https://www.linkedin.com/in/tehmeen/)  
-- 🌐 Fiverr: [fiverr.com/tehmeen15](https://www.fiverr.com/tehmeen15)  
+- 💼 LinkedIn: [linkedin.com/in/tehmeen](www.linkedin.com/in/tehmeen-👩🏻‍💻-a13866254)  
+- 🌐 Fiverr: [fiverr.com/official_codes](https://www.fiverr.com/official_codes)  
 - 🧪 Ask Me About: AI projects, freelance work, or even meme-worthy coding bugs 🤓
 
 ---
