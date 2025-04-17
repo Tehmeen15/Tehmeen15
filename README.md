@@ -98,7 +98,7 @@
 
 - 👨‍🎓 BSc in Computer Science (BSCS)  
 - 📚 Certified in:
-  - Artificial Intelligence (Career Institute)
+  - Artificial Intelligence
   - Python for Data Science
   - Machine Learning Basics
 - 🧠 Currently Exploring:
